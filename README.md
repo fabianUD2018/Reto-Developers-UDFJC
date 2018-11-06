@@ -1,2 +1,6 @@
-# Reto-Developers-UDFJC
-Reto de desarrollo SIG en la Universidad Distrital Francisco José de Caldas
+# reto_gisday2018-developer
+## equipo soflex
+
+### integrantes:
+**Luis Enrique Mendez Lopez**
+**Fabian Camilo Herrera Ramirez**
